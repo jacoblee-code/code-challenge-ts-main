@@ -1,0 +1,50 @@
+{
+  "regular": {
+    "cost": {
+      "flatRate":  2.0,
+      "dailyRate":  1.5,
+      "minDays":  2
+    },
+    "points": {
+      "base": 1,
+      "bonus": 0,
+      "minDays": 0
+    }
+  },
+  "childrens": {
+    "cost": {
+      "flatRate": 1.5,
+      "dailyRate": 1.5,
+      "minDays":  3
+    },
+    "points": {
+      "base": 1,
+      "bonus": 0,
+      "minDays": 0
+    }
+  },
+  "new": {
+    "cost": {
+      "flatRate": 1.0,
+      "dailyRate": 3.0,
+      "minDays":  0
+    },
+    "points": {
+      "base": 1,
+      "bonus": 1,
+      "minDays": 2
+    }
+  },
+  "scifi": {
+    "cost": {
+      "flatRate": 2.0,
+      "dailyRate": 1.5,
+      "minDays":  1
+    },
+    "points": {
+      "base": 1,
+      "bonus": 0,
+      "minDays": 0
+    }
+  }
+}
